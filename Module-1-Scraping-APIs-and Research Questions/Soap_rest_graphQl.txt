@@ -1,0 +1,3 @@
+SOAP - HTTP, TCP encodes in XML, follows standard definitions on error codes, status, etc.
+REST - HTTP, JSON
+GRAPHQL - Similar to a SQL query to an API endpoint

@@ -1,7 +1,7 @@
 # MSADS-509-applied-text-mining
 
 ## Module 1: Data Acquisition with APIs and Scraping
-
+<i>Template URL: https://github.com/37chandler/ads-tm-api-scrape </i>
 <p>Technologies Used: Python, Jupyter, Tweepy</p>
 
 After finding two musical artists with 100k+ followers on twitter and at least 20 songs,

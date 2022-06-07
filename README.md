@@ -12,3 +12,15 @@ After finding two musical artists with 100k+ followers on twitter and at least 2
 
 ### Breakdown of Scraping Process
 <img src='https://user-images.githubusercontent.com/36943200/167715336-b200af78-e173-4e2b-acde-2212f99f4126.png'></img>
+
+## Module 2:Tokenization, Normalization, Descriptive Statistics
+<i>Template URL: [ ](https://github.com/37chandler/ads-tm-token-norm/)</i>
+<p>Technologies Used: Python, Jupyter</p>
+
+## Module 3: Tokenization, Normalization, Descriptive Statistics
+<i>Template URL: https://github.com/37chandler/ads-tm-group-comp</i>
+<p>Technologies Used: Python, Jupyter</p>
+
+## Module 4: Naive Bayes in text mining
+<i>Template URL: https://github.com/37chandler/tm-nb-conventions </i>
+<p>Technologies Used: Python, Jupyter</p>

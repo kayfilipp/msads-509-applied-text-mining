@@ -37,6 +37,5 @@ After finding two musical artists with 100k+ followers on twitter and at least 2
 </p>
 
 ## Module 6: Sentiment Analysis
-Lexicon based approaches such as Bing-Liu, VADER, etc. for classifying the sentiment of a piece of text based on a score generated from the amount <br>
-of words belonging to a positive and a negative lexicon, as well as the use of **linearSVC** and BERT - a pretrained model that is trained on the combined English Wikipedia and books corpus using a masked-language-model (MLM). MLM refers to the practice of masking one word at a time in a document and engaging in transfer learning by evaluating how well the model can predict what the missing word is.
+Lexicon based approaches such as Bing-Liu, VADER, etc. for classifying the sentiment of a piece of text based on a score generated from the amount of words belonging to a positive and a negative lexicon, as well as the use of **linearSVC** and BERT - a pretrained model that is trained on the combined English Wikipedia and books corpus using a masked-language-model (MLM). MLM refers to the practice of masking one word at a time in a document and engaging in transfer learning by evaluating how well the model can predict what the missing word is.
 
